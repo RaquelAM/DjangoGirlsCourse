@@ -25,7 +25,7 @@ SECRET_KEY = '_^!s75ix%q-2^2o5t@67t&5luzwgc+16gu%=f6w#j^8qfz_qdp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['raquelam.pythonanywhere.com']
 
 
 # Application definition
